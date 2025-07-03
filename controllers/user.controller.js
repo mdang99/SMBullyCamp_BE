@@ -4,12 +4,26 @@ const jwt = require('jsonwebtoken')
 
 exports.getAllUsers = async (req, res) => {
   try {
-    const users = await User.find().select('-password');
-    res.json(users);
+    const page = parseInt(req.query.page) || 1;
+    const limit = parseInt(req.query.limit) || 6;
+    const skip = (page - 1) * limit;
+
+    const [users, total] = await Promise.all([
+      User.find().select("-password").skip(skip).limit(limit),
+      User.countDocuments(),
+    ]);
+
+    res.json({
+      data: users,
+      currentPage: page,
+      totalPages: Math.ceil(total / limit),
+      totalItems: total,
+    });
   } catch (err) {
     res.status(500).json({ error: err.message });
   }
 };
+  
 
 exports.createUser = async (req, res) => {
   try {
