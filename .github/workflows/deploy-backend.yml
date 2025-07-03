@@ -1,0 +1,30 @@
+name: Deploy Backend
+
+on:
+  push:
+    paths:
+      - 'be/**'       # Chạy khi có thay đổi trong thư mục be
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v3
+
+      - name: SSH Setup
+        uses: webfactory/ssh-agent@v0.9.0
+        with:
+          ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
+
+      - name: Deploy Backend
+        run: |
+          ssh -o StrictHostKeyChecking=no ${{ secrets.USER }}@${{ secrets.HOST }} << 'EOF'
+            cd ~/be
+            git pull origin main
+            npm install
+            pm2 restart backend || pm2 start index.js --name backend
+          EOF
