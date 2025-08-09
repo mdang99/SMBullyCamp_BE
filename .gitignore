@@ -13,5 +13,9 @@
 
 # env files (can opt-in for committing if needed)
 .env*
-/keys/*
+keys/*
 
+keys/
+*.pem
+*.key
+*.p12
