@@ -1,0 +1,270 @@
+[2025-08-08T05:38:03.437Z] ❌ Lỗi toàn cục: pLimit is not a function
+[2025-08-08T05:40:55.649Z] ✅ Chuẩn bị thêm pet: SM201104 - test
+[2025-08-08T05:40:55.650Z] ✅ Chuẩn bị thêm pet: SM211104 - SM211104
+[2025-08-08T05:40:55.651Z] ✅ Chuẩn bị thêm pet: SM220412 - SM220412
+[2025-08-08T05:40:55.651Z] ✅ Chuẩn bị thêm pet: SM230412 - SM230412
+[2025-08-08T05:40:55.651Z] ✅ Chuẩn bị thêm pet: SM240412 - SM240412
+[2025-08-08T05:40:55.651Z] ✅ Chuẩn bị thêm pet: SM250412 - SM250412
+[2025-08-08T05:40:55.651Z] ✅ Chuẩn bị thêm pet: SM260412 - SM260412
+[2025-08-08T05:40:57.266Z] ❌ Upload ảnh lỗi (SM280412): Error in loading https://drive.google.com/file/d/12TP-H9zeFyNmO22TYSHc_bRvpk5kAJE8/view?usp=sharing - 401 Unauthorized
+[2025-08-08T05:40:57.518Z] ❌ Upload ảnh lỗi (SM270412): Resource not found - Error in loading https://drive.google.com/file/d/1OYKpK__7b2GUCgGwP-LkcR1wxwzik4kk/view?usp=sharing - HTML response
+[2025-08-08T05:40:57.519Z] ✅ Chuẩn bị thêm pet: SM270412 - SM270412
+[2025-08-08T05:40:57.520Z] ✅ Chuẩn bị thêm pet: SM280412 - SM280412
+[2025-08-08T06:20:54.881Z] ❌ Upload ảnh lỗi (SM220412): Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.
+[2025-08-08T06:20:54.890Z] ❌ Upload ảnh lỗi (SM211104): Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.
+[2025-08-08T06:20:54.891Z] ✅ Chuẩn bị thêm pet: SM211104 - SM211104
+[2025-08-08T06:20:54.892Z] ✅ Chuẩn bị thêm pet: SM220412 - SM220412
+[2025-08-08T06:20:54.893Z] ❌ Upload ảnh lỗi (SM230412): Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.
+[2025-08-08T06:20:54.894Z] ✅ Chuẩn bị thêm pet: SM230412 - SM230412
+[2025-08-08T06:20:55.175Z] ❌ Upload ảnh lỗi (SM240412): Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.
+[2025-08-08T06:20:55.179Z] ✅ Chuẩn bị thêm pet: SM240412 - SM240412
+[2025-08-08T06:20:55.194Z] ❌ Upload ảnh lỗi (SM260412): Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.
+[2025-08-08T06:20:55.202Z] ❌ Upload ảnh lỗi (SM250412): Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.
+[2025-08-08T06:20:55.204Z] ✅ Chuẩn bị thêm pet: SM250412 - SM250412
+[2025-08-08T06:20:55.205Z] ✅ Chuẩn bị thêm pet: SM260412 - SM260412
+[2025-08-08T06:20:57.345Z] ❌ Upload ảnh lỗi (SM280412): Cannot read properties of undefined (reading 'Symbol(Symbol.asyncIterator)')
+[2025-08-08T06:20:57.365Z] ❌ Upload ảnh lỗi (SM270412): Cannot read properties of undefined (reading 'Symbol(Symbol.asyncIterator)')
+[2025-08-08T06:20:57.366Z] ✅ Chuẩn bị thêm pet: SM270412 - SM270412
+[2025-08-08T06:20:57.367Z] ✅ Chuẩn bị thêm pet: SM280412 - SM280412
+[2025-08-08T07:01:12.647Z] ❌ Upload ảnh lỗi (SM230412): Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.
+[2025-08-08T07:01:12.660Z] ❌ Upload ảnh lỗi (SM220412): Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.
+[2025-08-08T07:01:12.668Z] ❌ Upload ảnh lỗi (SM211104): Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.
+[2025-08-08T07:01:12.669Z] ✅ Chuẩn bị thêm pet: SM211104 - SM211104
+[2025-08-08T07:01:12.670Z] ✅ Chuẩn bị thêm pet: SM220412 - SM220412
+[2025-08-08T07:01:12.670Z] ✅ Chuẩn bị thêm pet: SM230412 - SM230412
+[2025-08-08T07:01:12.955Z] ❌ Upload ảnh lỗi (SM240412): Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.
+[2025-08-08T07:01:12.958Z] ✅ Chuẩn bị thêm pet: SM240412 - SM240412
+[2025-08-08T07:01:12.964Z] ❌ Upload ảnh lỗi (SM250412): Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.
+[2025-08-08T07:01:12.967Z] ✅ Chuẩn bị thêm pet: SM250412 - SM250412
+[2025-08-08T07:01:12.974Z] ❌ Upload ảnh lỗi (SM260412): Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.
+[2025-08-08T07:01:12.976Z] ✅ Chuẩn bị thêm pet: SM260412 - SM260412
+[2025-08-08T07:01:15.144Z] ❌ Drive get file error (id=1OYKpK__7b2GUCgGwP-LkcR1wxwzik4kk): Cannot read properties of undefined (reading 'Symbol(Symbol.asyncIterator)')
+[2025-08-08T07:01:15.145Z] ❌ Upload ảnh lỗi (SM270412): Drive stream is null
+[2025-08-08T07:01:15.146Z] ✅ Chuẩn bị thêm pet: SM270412 - SM270412
+[2025-08-08T07:01:15.232Z] ❌ Drive get file error (id=12TP-H9zeFyNmO22TYSHc_bRvpk5kAJE8): Cannot read properties of undefined (reading 'Symbol(Symbol.asyncIterator)')
+[2025-08-08T07:01:15.233Z] ❌ Upload ảnh lỗi (SM280412): Drive stream is null
+[2025-08-08T07:01:15.234Z] ✅ Chuẩn bị thêm pet: SM280412 - SM280412
+[2025-08-08T07:08:52.432Z] ✅ Chuẩn bị thêm pet: SM211104 - SM211104
+[2025-08-08T07:08:59.227Z] ✅ Chuẩn bị thêm pet: SM220412 - SM220412
+[2025-08-08T07:08:59.230Z] ✅ Chuẩn bị thêm pet: SM230412 - SM230412
+[2025-08-08T07:09:00.825Z] ✅ Chuẩn bị thêm pet: SM240412 - SM240412
+[2025-08-08T07:09:04.813Z] ✅ Chuẩn bị thêm pet: SM250412 - SM250412
+[2025-08-08T07:09:04.917Z] ✅ Chuẩn bị thêm pet: SM260412 - SM260412
+[2025-08-08T07:09:04.918Z] ✅ Chuẩn bị thêm pet: SM270412 - SM270412
+[2025-08-08T07:09:05.756Z] ✅ Chuẩn bị thêm pet: SM280412 - SM280412
+[2025-08-08T07:15:07.635Z] ❌ Không tìm thấy ảnh cho code SM211104 trong Drive/URL.
+[2025-08-08T07:15:07.637Z] ✅ Chuẩn bị thêm pet: SM211104 - SM211104
+[2025-08-08T07:15:15.416Z] ✅ Chuẩn bị thêm pet: SM220412 - SM220412
+[2025-08-08T07:15:21.359Z] ✅ Chuẩn bị thêm pet: SM230412 - SM230412
+[2025-08-08T07:15:25.895Z] ✅ Chuẩn bị thêm pet: SM240412 - SM240412
+[2025-08-08T07:15:31.135Z] ✅ Chuẩn bị thêm pet: SM250412 - SM250412
+[2025-08-08T07:15:36.528Z] ✅ Chuẩn bị thêm pet: SM260412 - SM260412
+[2025-08-08T07:15:38.384Z] ✅ Chuẩn bị thêm pet: SM270412 - SM270412
+[2025-08-08T07:15:40.922Z] ✅ Chuẩn bị thêm pet: SM280412 - SM280412
+[2025-08-08T07:19:24.117Z] ❌ Không tìm thấy ảnh cho code SM211104 trong Drive/URL.
+[2025-08-08T07:19:24.118Z] ✅ Chuẩn bị thêm pet: SM211104 - SM211104
+[2025-08-08T07:19:31.541Z] ✅ Chuẩn bị thêm pet: SM220412 - SM220412
+[2025-08-08T07:19:36.283Z] ✅ Chuẩn bị thêm pet: SM230412 - SM230412
+[2025-08-08T07:19:41.108Z] ✅ Chuẩn bị thêm pet: SM240412 - SM240412
+[2025-08-08T07:19:47.598Z] ✅ Chuẩn bị thêm pet: SM250412 - SM250412
+[2025-08-08T07:19:52.961Z] ✅ Chuẩn bị thêm pet: SM260412 - SM260412
+[2025-08-08T07:19:56.594Z] ✅ Chuẩn bị thêm pet: SM270412 - SM270412
+[2025-08-08T07:20:01.218Z] ✅ Chuẩn bị thêm pet: SM280412 - SM280412
+[2025-08-08T12:50:31.304Z] ❌ Không tìm thấy file ảnh khớp mã SM211104 trong folder. Ví dụ 20 tên đầu: SM270412.JPG, SM280412.HEIC, SM260412.HEIC, SM250412.HEIC, SM240412.HEIC, SM230412.HEIC, SM220412.HEIC, sm041102.JPG, sm041101.JPG, milo, bạc sỉu, Mỡ, heo, trĩ.JPG, nâu.JPG, be.JPG, hulk.JPG, ghẻ.PNG, lisa.JPG, xanh.JPG
+[2025-08-08T12:50:31.304Z] ❌ Không tìm thấy ảnh cho code SM211104 trong Drive/URL (folderId=1WwSoUiuQxVnPBgJKec2UUGhnWT0PtuKC).
+[2025-08-08T12:50:31.305Z] ✅ Chuẩn bị thêm pet: SM211104 - SM211104
+[2025-08-08T12:50:39.080Z] ✅ Chuẩn bị thêm pet: SM220412 - SM220412
+[2025-08-08T12:50:44.386Z] ✅ Chuẩn bị thêm pet: SM230412 - SM230412
+[2025-08-08T12:50:49.051Z] ✅ Chuẩn bị thêm pet: SM240412 - SM240412
+[2025-08-08T12:50:54.671Z] ✅ Chuẩn bị thêm pet: SM250412 - SM250412
+[2025-08-08T12:51:00.347Z] ✅ Chuẩn bị thêm pet: SM260412 - SM260412
+[2025-08-08T12:51:03.922Z] ✅ Chuẩn bị thêm pet: SM270412 - SM270412
+[2025-08-08T12:51:08.225Z] ✅ Chuẩn bị thêm pet: SM280412 - SM280412
+[2025-08-08T13:00:44.668Z] ❌ Không tìm thấy file ảnh khớp mã SM211104 trong folder. Ví dụ 20 tên đầu: SM270412.JPG, SM280412.HEIC, SM260412.HEIC, SM250412.HEIC, SM240412.HEIC, SM230412.HEIC, SM220412.HEIC, sm041102.JPG, sm041101.JPG, milo, bạc sỉu, Mỡ, heo, trĩ.JPG, nâu.JPG, be.JPG, hulk.JPG, ghẻ.PNG, lisa.JPG, xanh.JPG
+[2025-08-08T13:00:44.669Z] ❌ Không tìm thấy ảnh cho code SM211104 trong Drive/URL (folderId=1WwSoUiuQxVnPBgJKec2UUGhnWT0PtuKC).
+[2025-08-08T13:00:44.671Z] ✅ Chuẩn bị thêm pet: SM211104 - SM211104
+[2025-08-08T13:00:58.829Z] ✅ Chuẩn bị thêm pet: SM220412 - SM220412
+[2025-08-08T13:03:46.421Z] ❌ Không tìm thấy file ảnh khớp mã SM211104 trong folder. Ví dụ 20 tên đầu: SM270412.JPG, SM280412.HEIC, SM260412.HEIC, SM250412.HEIC, SM240412.HEIC, SM230412.HEIC, SM220412.HEIC, sm041102.JPG, sm041101.JPG, milo, bạc sỉu, Mỡ, heo, trĩ.JPG, nâu.JPG, be.JPG, hulk.JPG, ghẻ.PNG, lisa.JPG, xanh.JPG
+[2025-08-08T13:03:46.422Z] ❌ Không tìm thấy ảnh cho code SM211104 trong Drive/URL (folderId=1WwSoUiuQxVnPBgJKec2UUGhnWT0PtuKC).
+[2025-08-08T13:03:46.423Z] ✅ Chuẩn bị thêm pet: SM211104 - SM211104
+[2025-08-08T13:03:53.538Z] ✅ Chuẩn bị thêm pet: SM220412 - SM220412
+[2025-08-08T13:03:58.212Z] ✅ Chuẩn bị thêm pet: SM230412 - SM230412
+[2025-08-08T13:04:03.232Z] ✅ Chuẩn bị thêm pet: SM240412 - SM240412
+[2025-08-08T13:04:09.184Z] ✅ Chuẩn bị thêm pet: SM250412 - SM250412
+[2025-08-08T13:04:14.972Z] ✅ Chuẩn bị thêm pet: SM260412 - SM260412
+[2025-08-08T13:04:19.628Z] ✅ Chuẩn bị thêm pet: SM270412 - SM270412
+[2025-08-08T13:04:24.570Z] ✅ Chuẩn bị thêm pet: SM280412 - SM280412
+[2025-08-08T13:11:24.468Z] ✅ Bỏ qua SM01 (đã tồn tại).
+[2025-08-08T13:11:24.473Z] ✅ Bỏ qua SM02 (đã tồn tại).
+[2025-08-08T13:11:24.476Z] ✅ Bỏ qua SM03 (đã tồn tại).
+[2025-08-08T13:11:24.479Z] ✅ Bỏ qua SM04 (đã tồn tại).
+[2025-08-08T13:11:24.482Z] ✅ Bỏ qua SM05 (đã tồn tại).
+[2025-08-08T13:11:24.484Z] ✅ Bỏ qua SM06 (đã tồn tại).
+[2025-08-08T13:11:24.485Z] ✅ Bỏ qua SM07 (đã tồn tại).
+[2025-08-08T13:11:24.486Z] ✅ Bỏ qua SM08 (đã tồn tại).
+[2025-08-08T13:11:24.488Z] ✅ Bỏ qua SM09 (đã tồn tại).
+[2025-08-08T13:11:24.490Z] ✅ Bỏ qua SM10 (đã tồn tại).
+[2025-08-08T13:11:24.491Z] ✅ Bỏ qua SM11 (đã tồn tại).
+[2025-08-08T13:11:24.492Z] ✅ Bỏ qua SM12 (đã tồn tại).
+[2025-08-08T13:11:24.493Z] ✅ Bỏ qua SM13 (đã tồn tại).
+[2025-08-08T13:11:24.494Z] ✅ Bỏ qua SM14 (đã tồn tại).
+[2025-08-08T13:11:24.494Z] ✅ Bỏ qua SM15 (đã tồn tại).
+[2025-08-08T13:11:24.495Z] ✅ Bỏ qua SM16 (đã tồn tại).
+[2025-08-08T13:11:24.496Z] ✅ Bỏ qua SM17 (đã tồn tại).
+[2025-08-08T13:11:24.497Z] ✅ Bỏ qua SM18 (đã tồn tại).
+[2025-08-08T13:11:24.498Z] ✅ Bỏ qua SM19 (đã tồn tại).
+[2025-08-08T13:11:24.499Z] ✅ Bỏ qua SM201104 (đã tồn tại).
+[2025-08-08T13:11:25.960Z] ❌ Không tìm thấy file ảnh khớp mã SM211104 trong folder. Ví dụ 20 tên đầu: SM270412.JPG, SM280412.HEIC, SM260412.HEIC, SM250412.HEIC, SM240412.HEIC, SM230412.HEIC, SM220412.HEIC, sm041102.JPG, sm041101.JPG, milo, bạc sỉu, Mỡ, heo, trĩ.JPG, nâu.JPG, be.JPG, hulk.JPG, ghẻ.PNG, lisa.JPG, xanh.JPG
+[2025-08-08T13:11:25.962Z] ❌ Không tìm thấy ảnh cho code SM211104 trong Drive/URL (folderId=1WwSoUiuQxVnPBgJKec2UUGhnWT0PtuKC).
+[2025-08-08T13:11:25.963Z] ✅ Chuẩn bị thêm pet: SM211104 - SM211104
+[2025-08-08T13:11:33.014Z] ✅ Ảnh SM220412 đã upload lên Cloudinary.
+[2025-08-08T13:11:33.015Z] ✅ Chuẩn bị thêm pet: SM220412 - SM220412
+[2025-08-08T13:11:37.045Z] ✅ Ảnh SM230412 đã upload lên Cloudinary.
+[2025-08-08T13:11:37.047Z] ✅ Chuẩn bị thêm pet: SM230412 - SM230412
+[2025-08-08T13:11:41.285Z] ✅ Ảnh SM240412 đã upload lên Cloudinary.
+[2025-08-08T13:11:41.286Z] ✅ Chuẩn bị thêm pet: SM240412 - SM240412
+[2025-08-08T13:11:46.528Z] ✅ Ảnh SM250412 đã upload lên Cloudinary.
+[2025-08-08T13:11:46.530Z] ✅ Chuẩn bị thêm pet: SM250412 - SM250412
+[2025-08-08T13:11:51.632Z] ✅ Ảnh SM260412 đã upload lên Cloudinary.
+[2025-08-08T13:11:51.634Z] ✅ Chuẩn bị thêm pet: SM260412 - SM260412
+[2025-08-08T13:11:54.918Z] ✅ Ảnh SM270412 đã upload lên Cloudinary.
+[2025-08-08T13:11:54.919Z] ✅ Chuẩn bị thêm pet: SM270412 - SM270412
+[2025-08-08T13:11:59.007Z] ✅ Ảnh SM280412 đã upload lên Cloudinary.
+[2025-08-08T13:11:59.009Z] ✅ Chuẩn bị thêm pet: SM280412 - SM280412
+[2025-08-08T13:11:59.045Z] ✅ Đã insert 8 bản ghi.
+[2025-08-08T13:12:00.854Z] ❌ Lỗi toàn cục: tgChunkAndSend is not defined
+[2025-08-08T13:13:38.650Z] ❌ Không tìm thấy file ảnh khớp mã SM211104 trong folder. Ví dụ 20 tên đầu: SM270412.JPG, SM280412.HEIC, SM260412.HEIC, SM250412.HEIC, SM240412.HEIC, SM230412.HEIC, SM220412.HEIC, sm041102.JPG, sm041101.JPG, milo, bạc sỉu, Mỡ, heo, trĩ.JPG, nâu.JPG, be.JPG, hulk.JPG, ghẻ.PNG, lisa.JPG, xanh.JPG
+[2025-08-08T13:13:38.651Z] ❌ Không tìm thấy ảnh cho code SM211104 trong Drive/URL (folderId=1WwSoUiuQxVnPBgJKec2UUGhnWT0PtuKC).
+[2025-08-08T13:13:38.651Z] ✅ Chuẩn bị thêm pet: SM211104 - SM211104
+[2025-08-08T13:13:46.475Z] ✅ Chuẩn bị thêm pet: SM220412 - SM220412
+[2025-08-08T13:13:51.071Z] ✅ Chuẩn bị thêm pet: SM230412 - SM230412
+[2025-08-08T13:13:55.675Z] ✅ Chuẩn bị thêm pet: SM240412 - SM240412
+[2025-08-08T13:14:00.502Z] ✅ Chuẩn bị thêm pet: SM250412 - SM250412
+[2025-08-08T13:14:06.265Z] ✅ Chuẩn bị thêm pet: SM260412 - SM260412
+[2025-08-08T13:14:10.202Z] ✅ Chuẩn bị thêm pet: SM270412 - SM270412
+[2025-08-08T13:14:14.732Z] ✅ Chuẩn bị thêm pet: SM280412 - SM280412
+[2025-08-08T13:19:28.698Z] ❌ Không tìm thấy file ảnh khớp mã SM211104 trong folder. Ví dụ 20 tên đầu: SM270412.JPG, SM280412.HEIC, SM260412.HEIC, SM250412.HEIC, SM240412.HEIC, SM230412.HEIC, SM220412.HEIC, sm041102.JPG, sm041101.JPG, milo, bạc sỉu, Mỡ, heo, trĩ.JPG, nâu.JPG, be.JPG, hulk.JPG, ghẻ.PNG, lisa.JPG, xanh.JPG
+[2025-08-08T13:19:28.699Z] ❌ Không tìm thấy ảnh cho code SM211104 trong Drive/URL (folderId=1WwSoUiuQxVnPBgJKec2UUGhnWT0PtuKC).
+[2025-08-08T13:19:28.701Z] ✅ Chuẩn bị thêm pet: SM211104 - SM211104
+[2025-08-08T13:19:37.897Z] ✅ Chuẩn bị thêm pet: SM220412 - SM220412
+[2025-08-08T13:19:43.411Z] ✅ Chuẩn bị thêm pet: SM230412 - SM230412
+[2025-08-08T13:19:48.597Z] ✅ Chuẩn bị thêm pet: SM240412 - SM240412
+[2025-08-08T13:19:57.038Z] ✅ Chuẩn bị thêm pet: SM250412 - SM250412
+[2025-08-08T13:20:03.925Z] ✅ Chuẩn bị thêm pet: SM260412 - SM260412
+[2025-08-08T13:20:08.481Z] ✅ Chuẩn bị thêm pet: SM270412 - SM270412
+[2025-08-08T13:20:13.935Z] ✅ Chuẩn bị thêm pet: SM280412 - SM280412
+[2025-08-08T13:23:27.459Z] ℹ️ Drive recursive listing: scanned 0 folders, collected 29 files under 1WwSoUiuQxVnPBgJKec2UUGhnWT0PtuKC.
+[2025-08-08T13:23:27.460Z] ℹ️ Tìm ảnh cho code=SM211104. Tổng files duyệt=29. 20 tên đầu: SM270412.JPG, SM280412.HEIC, SM260412.HEIC, SM250412.HEIC, SM240412.HEIC, SM230412.HEIC, SM220412.HEIC, sm041102.JPG, sm041101.JPG, milo, bạc sỉu, Mỡ, heo, trĩ.JPG, nâu.JPG, be.JPG, hulk.JPG, ghẻ.PNG, lisa.JPG, xanh.JPG
+[2025-08-08T13:23:27.461Z] ❌ Không tìm thấy file ảnh khớp mã SM211104 trong Drive (folderId=1WwSoUiuQxVnPBgJKec2UUGhnWT0PtuKC).
+[2025-08-08T13:23:27.461Z] ❌ Không tìm thấy ảnh cho code SM211104 trong Drive/URL (folderId=1WwSoUiuQxVnPBgJKec2UUGhnWT0PtuKC).
+[2025-08-08T13:23:27.461Z] ✅ Chuẩn bị thêm pet: SM211104 - SM211104
+[2025-08-08T13:23:28.415Z] ℹ️ Drive recursive listing: scanned 0 folders, collected 29 files under 1WwSoUiuQxVnPBgJKec2UUGhnWT0PtuKC.
+[2025-08-08T13:23:28.416Z] ℹ️ Tìm ảnh cho code=SM220412. Tổng files duyệt=29. 20 tên đầu: SM270412.JPG, SM280412.HEIC, SM260412.HEIC, SM250412.HEIC, SM240412.HEIC, SM230412.HEIC, SM220412.HEIC, sm041102.JPG, sm041101.JPG, milo, bạc sỉu, Mỡ, heo, trĩ.JPG, nâu.JPG, be.JPG, hulk.JPG, ghẻ.PNG, lisa.JPG, xanh.JPG
+[2025-08-08T13:23:28.860Z] ℹ️ Match EXACT by basename: SM220412.HEIC (id=1DSQj6VjWQj_op8sZkNzIuFI23oBZGrbS)
+[2025-08-08T13:23:41.371Z] ✅ Chuẩn bị thêm pet: SM220412 - SM220412
+[2025-08-08T13:23:42.339Z] ℹ️ Drive recursive listing: scanned 0 folders, collected 29 files under 1WwSoUiuQxVnPBgJKec2UUGhnWT0PtuKC.
+[2025-08-08T13:23:42.340Z] ℹ️ Tìm ảnh cho code=SM230412. Tổng files duyệt=29. 20 tên đầu: SM270412.JPG, SM280412.HEIC, SM260412.HEIC, SM250412.HEIC, SM240412.HEIC, SM230412.HEIC, SM220412.HEIC, sm041102.JPG, sm041101.JPG, milo, bạc sỉu, Mỡ, heo, trĩ.JPG, nâu.JPG, be.JPG, hulk.JPG, ghẻ.PNG, lisa.JPG, xanh.JPG
+[2025-08-08T13:23:42.778Z] ℹ️ Match EXACT by basename: SM230412.HEIC (id=1mlhkdpI5277KzPIzaOb_xFiimSdjSxVR)
+[2025-08-08T13:23:49.640Z] ✅ Chuẩn bị thêm pet: SM230412 - SM230412
+[2025-08-08T13:23:50.585Z] ℹ️ Drive recursive listing: scanned 0 folders, collected 29 files under 1WwSoUiuQxVnPBgJKec2UUGhnWT0PtuKC.
+[2025-08-08T13:23:50.586Z] ℹ️ Tìm ảnh cho code=SM240412. Tổng files duyệt=29. 20 tên đầu: SM270412.JPG, SM280412.HEIC, SM260412.HEIC, SM250412.HEIC, SM240412.HEIC, SM230412.HEIC, SM220412.HEIC, sm041102.JPG, sm041101.JPG, milo, bạc sỉu, Mỡ, heo, trĩ.JPG, nâu.JPG, be.JPG, hulk.JPG, ghẻ.PNG, lisa.JPG, xanh.JPG
+[2025-08-08T13:23:51.046Z] ℹ️ Match EXACT by basename: SM240412.HEIC (id=1og_svss3Vstxe1oI5BK-L47FbgfYqGmV)
+[2025-08-08T13:23:55.622Z] ✅ Chuẩn bị thêm pet: SM240412 - SM240412
+[2025-08-08T13:23:56.561Z] ℹ️ Drive recursive listing: scanned 0 folders, collected 29 files under 1WwSoUiuQxVnPBgJKec2UUGhnWT0PtuKC.
+[2025-08-08T13:23:56.562Z] ℹ️ Tìm ảnh cho code=SM250412. Tổng files duyệt=29. 20 tên đầu: SM270412.JPG, SM280412.HEIC, SM260412.HEIC, SM250412.HEIC, SM240412.HEIC, SM230412.HEIC, SM220412.HEIC, sm041102.JPG, sm041101.JPG, milo, bạc sỉu, Mỡ, heo, trĩ.JPG, nâu.JPG, be.JPG, hulk.JPG, ghẻ.PNG, lisa.JPG, xanh.JPG
+[2025-08-08T13:23:56.973Z] ℹ️ Match EXACT by basename: SM250412.HEIC (id=1pf8jHRoIjOrFWmGWQb4LG55HyGhd5ykz)
+[2025-08-08T13:24:02.745Z] ✅ Chuẩn bị thêm pet: SM250412 - SM250412
+[2025-08-08T13:24:03.840Z] ℹ️ Drive recursive listing: scanned 0 folders, collected 29 files under 1WwSoUiuQxVnPBgJKec2UUGhnWT0PtuKC.
+[2025-08-08T13:24:03.842Z] ℹ️ Tìm ảnh cho code=SM260412. Tổng files duyệt=29. 20 tên đầu: SM270412.JPG, SM280412.HEIC, SM260412.HEIC, SM250412.HEIC, SM240412.HEIC, SM230412.HEIC, SM220412.HEIC, sm041102.JPG, sm041101.JPG, milo, bạc sỉu, Mỡ, heo, trĩ.JPG, nâu.JPG, be.JPG, hulk.JPG, ghẻ.PNG, lisa.JPG, xanh.JPG
+[2025-08-08T13:24:04.278Z] ℹ️ Match EXACT by basename: SM260412.HEIC (id=1Fyymlp44QMTMjHNAq1yb23hI16OJf6Ch)
+[2025-08-08T13:24:10.437Z] ✅ Chuẩn bị thêm pet: SM260412 - SM260412
+[2025-08-08T13:24:11.367Z] ℹ️ Drive recursive listing: scanned 0 folders, collected 29 files under 1WwSoUiuQxVnPBgJKec2UUGhnWT0PtuKC.
+[2025-08-08T13:24:11.367Z] ℹ️ Tìm ảnh cho code=SM270412. Tổng files duyệt=29. 20 tên đầu: SM270412.JPG, SM280412.HEIC, SM260412.HEIC, SM250412.HEIC, SM240412.HEIC, SM230412.HEIC, SM220412.HEIC, sm041102.JPG, sm041101.JPG, milo, bạc sỉu, Mỡ, heo, trĩ.JPG, nâu.JPG, be.JPG, hulk.JPG, ghẻ.PNG, lisa.JPG, xanh.JPG
+[2025-08-08T13:24:11.803Z] ℹ️ Match EXACT by basename: SM270412.JPG (id=1OYKpK__7b2GUCgGwP-LkcR1wxwzik4kk)
+[2025-08-08T13:24:13.802Z] ✅ Chuẩn bị thêm pet: SM270412 - SM270412
+[2025-08-08T13:24:14.780Z] ℹ️ Drive recursive listing: scanned 0 folders, collected 29 files under 1WwSoUiuQxVnPBgJKec2UUGhnWT0PtuKC.
+[2025-08-08T13:24:14.781Z] ℹ️ Tìm ảnh cho code=SM280412. Tổng files duyệt=29. 20 tên đầu: SM270412.JPG, SM280412.HEIC, SM260412.HEIC, SM250412.HEIC, SM240412.HEIC, SM230412.HEIC, SM220412.HEIC, sm041102.JPG, sm041101.JPG, milo, bạc sỉu, Mỡ, heo, trĩ.JPG, nâu.JPG, be.JPG, hulk.JPG, ghẻ.PNG, lisa.JPG, xanh.JPG
+[2025-08-08T13:24:15.240Z] ℹ️ Match EXACT by basename: SM280412.HEIC (id=12TP-H9zeFyNmO22TYSHc_bRvpk5kAJE8)
+[2025-08-08T13:24:19.071Z] ✅ Chuẩn bị thêm pet: SM280412 - SM280412
+[2025-08-08T13:32:56.693Z] ℹ️ Drive recursive listing: scanned 0 folders, collected 29 files under 1WwSoUiuQxVnPBgJKec2UUGhnWT0PtuKC.
+[2025-08-08T13:32:56.695Z] ℹ️ Tìm ảnh cho code=SM211104. Tổng files duyệt=29. 20 tên đầu: SM270412.JPG, SM280412.HEIC, SM260412.HEIC, SM250412.HEIC, SM240412.HEIC, SM230412.HEIC, SM220412.HEIC, sm041102.JPG, sm041101.JPG, milo, bạc sỉu, Mỡ, heo, trĩ.JPG, nâu.JPG, be.JPG, hulk.JPG, ghẻ.PNG, lisa.JPG, xanh.JPG
+[2025-08-08T13:32:56.698Z] ❌ Không tìm thấy file ảnh khớp mã SM211104 trong folder (folderId=1WwSoUiuQxVnPBgJKec2UUGhnWT0PtuKC).
+[2025-08-08T13:32:56.699Z] ❌ Không tìm thấy ảnh cho code SM211104 trong folder Drive (folderId=1WwSoUiuQxVnPBgJKec2UUGhnWT0PtuKC).
+[2025-08-08T13:32:56.700Z] ✅ Chuẩn bị thêm pet: SM211104 - SM211104
+[2025-08-08T13:32:57.772Z] ℹ️ Drive recursive listing: scanned 0 folders, collected 29 files under 1WwSoUiuQxVnPBgJKec2UUGhnWT0PtuKC.
+[2025-08-08T13:32:57.773Z] ℹ️ Tìm ảnh cho code=SM220412. Tổng files duyệt=29. 20 tên đầu: SM270412.JPG, SM280412.HEIC, SM260412.HEIC, SM250412.HEIC, SM240412.HEIC, SM230412.HEIC, SM220412.HEIC, sm041102.JPG, sm041101.JPG, milo, bạc sỉu, Mỡ, heo, trĩ.JPG, nâu.JPG, be.JPG, hulk.JPG, ghẻ.PNG, lisa.JPG, xanh.JPG
+[2025-08-08T13:32:58.291Z] ℹ️ Match EXACT by basename: SM220412.HEIC (id=1DSQj6VjWQj_op8sZkNzIuFI23oBZGrbS)
+[2025-08-08T13:33:04.110Z] ✅ Chuẩn bị thêm pet: SM220412 - SM220412
+[2025-08-08T13:33:05.096Z] ℹ️ Drive recursive listing: scanned 0 folders, collected 29 files under 1WwSoUiuQxVnPBgJKec2UUGhnWT0PtuKC.
+[2025-08-08T13:33:05.096Z] ℹ️ Tìm ảnh cho code=SM230412. Tổng files duyệt=29. 20 tên đầu: SM270412.JPG, SM280412.HEIC, SM260412.HEIC, SM250412.HEIC, SM240412.HEIC, SM230412.HEIC, SM220412.HEIC, sm041102.JPG, sm041101.JPG, milo, bạc sỉu, Mỡ, heo, trĩ.JPG, nâu.JPG, be.JPG, hulk.JPG, ghẻ.PNG, lisa.JPG, xanh.JPG
+[2025-08-08T13:33:05.520Z] ℹ️ Match EXACT by basename: SM230412.HEIC (id=1mlhkdpI5277KzPIzaOb_xFiimSdjSxVR)
+[2025-08-08T13:33:09.302Z] ✅ Chuẩn bị thêm pet: SM230412 - SM230412
+[2025-08-08T13:33:10.468Z] ℹ️ Drive recursive listing: scanned 0 folders, collected 29 files under 1WwSoUiuQxVnPBgJKec2UUGhnWT0PtuKC.
+[2025-08-08T13:33:10.469Z] ℹ️ Tìm ảnh cho code=SM240412. Tổng files duyệt=29. 20 tên đầu: SM270412.JPG, SM280412.HEIC, SM260412.HEIC, SM250412.HEIC, SM240412.HEIC, SM230412.HEIC, SM220412.HEIC, sm041102.JPG, sm041101.JPG, milo, bạc sỉu, Mỡ, heo, trĩ.JPG, nâu.JPG, be.JPG, hulk.JPG, ghẻ.PNG, lisa.JPG, xanh.JPG
+[2025-08-08T13:33:10.953Z] ℹ️ Match EXACT by basename: SM240412.HEIC (id=1og_svss3Vstxe1oI5BK-L47FbgfYqGmV)
+[2025-08-08T13:33:14.271Z] ✅ Chuẩn bị thêm pet: SM240412 - SM240412
+[2025-08-08T13:33:15.395Z] ℹ️ Drive recursive listing: scanned 0 folders, collected 29 files under 1WwSoUiuQxVnPBgJKec2UUGhnWT0PtuKC.
+[2025-08-08T13:33:15.395Z] ℹ️ Tìm ảnh cho code=SM250412. Tổng files duyệt=29. 20 tên đầu: SM270412.JPG, SM280412.HEIC, SM260412.HEIC, SM250412.HEIC, SM240412.HEIC, SM230412.HEIC, SM220412.HEIC, sm041102.JPG, sm041101.JPG, milo, bạc sỉu, Mỡ, heo, trĩ.JPG, nâu.JPG, be.JPG, hulk.JPG, ghẻ.PNG, lisa.JPG, xanh.JPG
+[2025-08-08T13:33:15.837Z] ℹ️ Match EXACT by basename: SM250412.HEIC (id=1pf8jHRoIjOrFWmGWQb4LG55HyGhd5ykz)
+[2025-08-08T13:33:20.850Z] ✅ Chuẩn bị thêm pet: SM250412 - SM250412
+[2025-08-08T13:33:21.823Z] ℹ️ Drive recursive listing: scanned 0 folders, collected 29 files under 1WwSoUiuQxVnPBgJKec2UUGhnWT0PtuKC.
+[2025-08-08T13:33:21.823Z] ℹ️ Tìm ảnh cho code=SM260412. Tổng files duyệt=29. 20 tên đầu: SM270412.JPG, SM280412.HEIC, SM260412.HEIC, SM250412.HEIC, SM240412.HEIC, SM230412.HEIC, SM220412.HEIC, sm041102.JPG, sm041101.JPG, milo, bạc sỉu, Mỡ, heo, trĩ.JPG, nâu.JPG, be.JPG, hulk.JPG, ghẻ.PNG, lisa.JPG, xanh.JPG
+[2025-08-08T13:33:22.254Z] ℹ️ Match EXACT by basename: SM260412.HEIC (id=1Fyymlp44QMTMjHNAq1yb23hI16OJf6Ch)
+[2025-08-08T13:33:26.872Z] ✅ Chuẩn bị thêm pet: SM260412 - SM260412
+[2025-08-08T13:33:27.904Z] ℹ️ Drive recursive listing: scanned 0 folders, collected 29 files under 1WwSoUiuQxVnPBgJKec2UUGhnWT0PtuKC.
+[2025-08-08T13:33:27.905Z] ℹ️ Tìm ảnh cho code=SM270412. Tổng files duyệt=29. 20 tên đầu: SM270412.JPG, SM280412.HEIC, SM260412.HEIC, SM250412.HEIC, SM240412.HEIC, SM230412.HEIC, SM220412.HEIC, sm041102.JPG, sm041101.JPG, milo, bạc sỉu, Mỡ, heo, trĩ.JPG, nâu.JPG, be.JPG, hulk.JPG, ghẻ.PNG, lisa.JPG, xanh.JPG
+[2025-08-08T13:33:28.323Z] ℹ️ Match EXACT by basename: SM270412.JPG (id=1OYKpK__7b2GUCgGwP-LkcR1wxwzik4kk)
+[2025-08-08T13:33:30.203Z] ✅ Chuẩn bị thêm pet: SM270412 - SM270412
+[2025-08-08T13:33:31.355Z] ℹ️ Drive recursive listing: scanned 0 folders, collected 29 files under 1WwSoUiuQxVnPBgJKec2UUGhnWT0PtuKC.
+[2025-08-08T13:33:31.357Z] ℹ️ Tìm ảnh cho code=SM280412. Tổng files duyệt=29. 20 tên đầu: SM270412.JPG, SM280412.HEIC, SM260412.HEIC, SM250412.HEIC, SM240412.HEIC, SM230412.HEIC, SM220412.HEIC, sm041102.JPG, sm041101.JPG, milo, bạc sỉu, Mỡ, heo, trĩ.JPG, nâu.JPG, be.JPG, hulk.JPG, ghẻ.PNG, lisa.JPG, xanh.JPG
+[2025-08-08T13:33:31.795Z] ℹ️ Match EXACT by basename: SM280412.HEIC (id=12TP-H9zeFyNmO22TYSHc_bRvpk5kAJE8)
+[2025-08-08T13:33:34.898Z] ✅ Chuẩn bị thêm pet: SM280412 - SM280412
+[2025-08-08T13:46:25.208Z] ℹ️ Drive recursive listing: scanned 0 folders, collected 29 files under 1WwSoUiuQxVnPBgJKec2UUGhnWT0PtuKC.
+[2025-08-08T13:46:25.209Z] ℹ️ Tìm ảnh cho code=SM211104. Tổng files duyệt=29. 20 tên đầu: SM041102.JPG, SM041101.JPG, SM270412.JPG, SM280412.HEIC, SM260412.HEIC, SM250412.HEIC, SM240412.HEIC, SM230412.HEIC, SM220412.HEIC, milo, bạc sỉu, Mỡ, heo, trĩ.JPG, nâu.JPG, be.JPG, hulk.JPG, ghẻ.PNG, lisa.JPG, xanh.JPG
+[2025-08-08T13:46:25.210Z] ❌ Không tìm thấy file ảnh khớp mã SM211104 trong folder (folderId=1WwSoUiuQxVnPBgJKec2UUGhnWT0PtuKC).
+[2025-08-08T13:46:25.212Z] ❌ Không tìm thấy ảnh cho code SM211104 trong folder Drive (folderId=1WwSoUiuQxVnPBgJKec2UUGhnWT0PtuKC).
+[2025-08-08T13:46:25.213Z] ✅ Chuẩn bị thêm pet: SM211104 - SM211104
+[2025-08-08T13:46:26.256Z] ℹ️ Drive recursive listing: scanned 0 folders, collected 29 files under 1WwSoUiuQxVnPBgJKec2UUGhnWT0PtuKC.
+[2025-08-08T13:46:26.257Z] ℹ️ Tìm ảnh cho code=SM220412. Tổng files duyệt=29. 20 tên đầu: SM041102.JPG, SM041101.JPG, SM270412.JPG, SM280412.HEIC, SM260412.HEIC, SM250412.HEIC, SM240412.HEIC, SM230412.HEIC, SM220412.HEIC, milo, bạc sỉu, Mỡ, heo, trĩ.JPG, nâu.JPG, be.JPG, hulk.JPG, ghẻ.PNG, lisa.JPG, xanh.JPG
+[2025-08-08T13:46:26.683Z] ℹ️ Match EXACT by basename: SM220412.HEIC (id=1DSQj6VjWQj_op8sZkNzIuFI23oBZGrbS)
+[2025-08-08T13:47:26.262Z] ✅ Chuẩn bị thêm pet: SM220412 - SM220412
+[2025-08-08T13:47:27.439Z] ℹ️ Drive recursive listing: scanned 0 folders, collected 29 files under 1WwSoUiuQxVnPBgJKec2UUGhnWT0PtuKC.
+[2025-08-08T13:47:27.440Z] ℹ️ Tìm ảnh cho code=SM230412. Tổng files duyệt=29. 20 tên đầu: SM041102.JPG, SM041101.JPG, SM270412.JPG, SM280412.HEIC, SM260412.HEIC, SM250412.HEIC, SM240412.HEIC, SM230412.HEIC, SM220412.HEIC, milo, bạc sỉu, Mỡ, heo, trĩ.JPG, nâu.JPG, be.JPG, hulk.JPG, ghẻ.PNG, lisa.JPG, xanh.JPG
+[2025-08-08T13:47:27.881Z] ℹ️ Match EXACT by basename: SM230412.HEIC (id=1mlhkdpI5277KzPIzaOb_xFiimSdjSxVR)
+[2025-08-08T13:48:32.697Z] ✅ Chuẩn bị thêm pet: SM230412 - SM230412
+[2025-08-08T13:48:33.851Z] ℹ️ Drive recursive listing: scanned 0 folders, collected 29 files under 1WwSoUiuQxVnPBgJKec2UUGhnWT0PtuKC.
+[2025-08-08T13:48:33.853Z] ℹ️ Tìm ảnh cho code=SM240412. Tổng files duyệt=29. 20 tên đầu: SM041102.JPG, SM041101.JPG, SM270412.JPG, SM280412.HEIC, SM260412.HEIC, SM250412.HEIC, SM240412.HEIC, SM230412.HEIC, SM220412.HEIC, milo, bạc sỉu, Mỡ, heo, trĩ.JPG, nâu.JPG, be.JPG, hulk.JPG, ghẻ.PNG, lisa.JPG, xanh.JPG
+[2025-08-08T13:48:34.264Z] ℹ️ Match EXACT by basename: SM240412.HEIC (id=1og_svss3Vstxe1oI5BK-L47FbgfYqGmV)
+[2025-08-08T13:49:37.358Z] ℹ️ Drive recursive listing: scanned 0 folders, collected 29 files under 1WwSoUiuQxVnPBgJKec2UUGhnWT0PtuKC.
+[2025-08-08T13:49:37.360Z] ℹ️ Tìm ảnh cho code=SM211104. Tổng files duyệt=29. 20 tên đầu: SM041102.JPG, SM041101.JPG, SM270412.JPG, SM280412.HEIC, SM260412.HEIC, SM250412.HEIC, SM240412.HEIC, SM230412.HEIC, SM220412.HEIC, milo, bạc sỉu, Mỡ, heo, trĩ.JPG, nâu.JPG, be.JPG, hulk.JPG, ghẻ.PNG, lisa.JPG, xanh.JPG
+[2025-08-08T13:49:37.362Z] ❌ Không tìm thấy file ảnh khớp mã SM211104 trong folder (folderId=1WwSoUiuQxVnPBgJKec2UUGhnWT0PtuKC).
+[2025-08-08T13:49:37.364Z] ❌ Không tìm thấy ảnh cho code SM211104 trong folder Drive (folderId=1WwSoUiuQxVnPBgJKec2UUGhnWT0PtuKC).
+[2025-08-08T13:49:37.365Z] ✅ Chuẩn bị thêm pet: SM211104 - SM211104
+[2025-08-08T13:49:38.331Z] ℹ️ Drive recursive listing: scanned 0 folders, collected 29 files under 1WwSoUiuQxVnPBgJKec2UUGhnWT0PtuKC.
+[2025-08-08T13:49:38.333Z] ℹ️ Tìm ảnh cho code=SM220412. Tổng files duyệt=29. 20 tên đầu: SM041102.JPG, SM041101.JPG, SM270412.JPG, SM280412.HEIC, SM260412.HEIC, SM250412.HEIC, SM240412.HEIC, SM230412.HEIC, SM220412.HEIC, milo, bạc sỉu, Mỡ, heo, trĩ.JPG, nâu.JPG, be.JPG, hulk.JPG, ghẻ.PNG, lisa.JPG, xanh.JPG
+[2025-08-08T13:49:38.788Z] ℹ️ Match EXACT by basename: SM220412.HEIC (id=1DSQj6VjWQj_op8sZkNzIuFI23oBZGrbS)
+[2025-08-08T13:50:09.401Z] ✅ Chuẩn bị thêm pet: SM220412 - SM220412
+[2025-08-08T13:50:10.567Z] ℹ️ Drive recursive listing: scanned 0 folders, collected 29 files under 1WwSoUiuQxVnPBgJKec2UUGhnWT0PtuKC.
+[2025-08-08T13:50:10.568Z] ℹ️ Tìm ảnh cho code=SM230412. Tổng files duyệt=29. 20 tên đầu: SM041102.JPG, SM041101.JPG, SM270412.JPG, SM280412.HEIC, SM260412.HEIC, SM250412.HEIC, SM240412.HEIC, SM230412.HEIC, SM220412.HEIC, milo, bạc sỉu, Mỡ, heo, trĩ.JPG, nâu.JPG, be.JPG, hulk.JPG, ghẻ.PNG, lisa.JPG, xanh.JPG
+[2025-08-08T13:50:10.994Z] ℹ️ Match EXACT by basename: SM230412.HEIC (id=1mlhkdpI5277KzPIzaOb_xFiimSdjSxVR)
+[2025-08-08T13:50:29.797Z] ✅ Chuẩn bị thêm pet: SM230412 - SM230412
+[2025-08-08T13:50:30.760Z] ℹ️ Drive recursive listing: scanned 0 folders, collected 29 files under 1WwSoUiuQxVnPBgJKec2UUGhnWT0PtuKC.
+[2025-08-08T13:50:30.761Z] ℹ️ Tìm ảnh cho code=SM240412. Tổng files duyệt=29. 20 tên đầu: SM041102.JPG, SM041101.JPG, SM270412.JPG, SM280412.HEIC, SM260412.HEIC, SM250412.HEIC, SM240412.HEIC, SM230412.HEIC, SM220412.HEIC, milo, bạc sỉu, Mỡ, heo, trĩ.JPG, nâu.JPG, be.JPG, hulk.JPG, ghẻ.PNG, lisa.JPG, xanh.JPG
+[2025-08-08T13:50:31.242Z] ℹ️ Match EXACT by basename: SM240412.HEIC (id=1og_svss3Vstxe1oI5BK-L47FbgfYqGmV)
+[2025-08-08T13:50:45.861Z] ✅ Chuẩn bị thêm pet: SM240412 - SM240412
+[2025-08-08T13:50:46.838Z] ℹ️ Drive recursive listing: scanned 0 folders, collected 29 files under 1WwSoUiuQxVnPBgJKec2UUGhnWT0PtuKC.
+[2025-08-08T13:50:46.839Z] ℹ️ Tìm ảnh cho code=SM250412. Tổng files duyệt=29. 20 tên đầu: SM041102.JPG, SM041101.JPG, SM270412.JPG, SM280412.HEIC, SM260412.HEIC, SM250412.HEIC, SM240412.HEIC, SM230412.HEIC, SM220412.HEIC, milo, bạc sỉu, Mỡ, heo, trĩ.JPG, nâu.JPG, be.JPG, hulk.JPG, ghẻ.PNG, lisa.JPG, xanh.JPG
+[2025-08-08T13:50:47.277Z] ℹ️ Match EXACT by basename: SM250412.HEIC (id=1pf8jHRoIjOrFWmGWQb4LG55HyGhd5ykz)
+[2025-08-08T13:50:55.834Z] ✅ Chuẩn bị thêm pet: SM250412 - SM250412
+[2025-08-08T13:50:57.090Z] ℹ️ Drive recursive listing: scanned 0 folders, collected 29 files under 1WwSoUiuQxVnPBgJKec2UUGhnWT0PtuKC.
+[2025-08-08T13:50:57.092Z] ℹ️ Tìm ảnh cho code=SM260412. Tổng files duyệt=29. 20 tên đầu: SM041102.JPG, SM041101.JPG, SM270412.JPG, SM280412.HEIC, SM260412.HEIC, SM250412.HEIC, SM240412.HEIC, SM230412.HEIC, SM220412.HEIC, milo, bạc sỉu, Mỡ, heo, trĩ.JPG, nâu.JPG, be.JPG, hulk.JPG, ghẻ.PNG, lisa.JPG, xanh.JPG
+[2025-08-08T13:50:57.523Z] ℹ️ Match EXACT by basename: SM260412.HEIC (id=1Fyymlp44QMTMjHNAq1yb23hI16OJf6Ch)
+[2025-08-08T13:51:04.341Z] ✅ Chuẩn bị thêm pet: SM260412 - SM260412
+[2025-08-08T13:51:05.300Z] ℹ️ Drive recursive listing: scanned 0 folders, collected 29 files under 1WwSoUiuQxVnPBgJKec2UUGhnWT0PtuKC.
+[2025-08-08T13:51:05.302Z] ℹ️ Tìm ảnh cho code=SM270412. Tổng files duyệt=29. 20 tên đầu: SM041102.JPG, SM041101.JPG, SM270412.JPG, SM280412.HEIC, SM260412.HEIC, SM250412.HEIC, SM240412.HEIC, SM230412.HEIC, SM220412.HEIC, milo, bạc sỉu, Mỡ, heo, trĩ.JPG, nâu.JPG, be.JPG, hulk.JPG, ghẻ.PNG, lisa.JPG, xanh.JPG
+[2025-08-08T13:51:05.728Z] ℹ️ Match EXACT by basename: SM270412.JPG (id=1OYKpK__7b2GUCgGwP-LkcR1wxwzik4kk)
+[2025-08-08T13:51:08.413Z] ✅ Chuẩn bị thêm pet: SM270412 - SM270412
+[2025-08-08T13:51:09.435Z] ℹ️ Drive recursive listing: scanned 0 folders, collected 29 files under 1WwSoUiuQxVnPBgJKec2UUGhnWT0PtuKC.
+[2025-08-08T13:51:09.436Z] ℹ️ Tìm ảnh cho code=SM280412. Tổng files duyệt=29. 20 tên đầu: SM041102.JPG, SM041101.JPG, SM270412.JPG, SM280412.HEIC, SM260412.HEIC, SM250412.HEIC, SM240412.HEIC, SM230412.HEIC, SM220412.HEIC, milo, bạc sỉu, Mỡ, heo, trĩ.JPG, nâu.JPG, be.JPG, hulk.JPG, ghẻ.PNG, lisa.JPG, xanh.JPG
+[2025-08-08T13:51:09.871Z] ℹ️ Match EXACT by basename: SM280412.HEIC (id=12TP-H9zeFyNmO22TYSHc_bRvpk5kAJE8)
+[2025-08-08T13:51:14.887Z] ✅ Chuẩn bị thêm pet: SM280412 - SM280412

@@ -1,0 +1,30 @@
+[2025-07-26T16:49:35.748Z] ❌ Lỗi toàn cục: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-07-26T17:11:40.389Z] ✅ Đã thêm mới pet: SM210411 - SM041101
+[2025-07-26T17:11:40.390Z] ✅ Đã thêm mới pet: SM220211 - SM041102
+[2025-07-26T17:14:35.686Z] ✅ Đã thêm mới pet: SM210411 - SM210411
+[2025-07-26T17:14:35.687Z] ✅ Đã thêm mới pet: SM220211 - SM220211
+[2025-07-26T17:25:16.326Z] ❌ Không xác định được cha/mẹ từ Parent Code (SM04,, SM11) cho pet SM041101
+[2025-07-26T17:25:16.328Z] ❌ Không xác định được cha/mẹ từ Parent Code (SM02,, SM11) cho pet SM041102
+[2025-07-26T17:26:53.154Z] ✅ Đã thêm mới pet: SM210411 - SM210411
+[2025-07-26T17:26:53.156Z] ✅ Đã thêm mới pet: SM220211 - SM220211
+[2025-07-26T17:28:29.431Z] ✅ Đã thêm mới pet: SM210411 - test
+[2025-07-26T17:28:29.432Z] ✅ Đã thêm mới pet: SM220211 - SM220211
+[2025-07-26T17:35:08.734Z] ✅ Đã thêm mới pet: SM210411 - test
+[2025-07-26T17:35:08.735Z] ✅ Đã thêm mới pet: SM220211 - SM220211
+[2025-07-26T17:35:14.774Z] ✅ Đã thêm mới pet: SM230411 - test
+[2025-07-26T17:35:14.775Z] ✅ Đã thêm mới pet: SM240211 - SM240211
+[2025-07-26T17:44:35.802Z] ✅ Đã thêm mới pet: SM250411 - test
+[2025-07-26T17:44:35.803Z] ✅ Đã thêm mới pet: SM260211 - SM260211
+[2025-07-26T17:48:07.827Z] ✅ Đã thêm mới pet: SM210411 - test
+[2025-07-26T17:48:07.828Z] ✅ Đã thêm mới pet: SM220211 - SM220211
+[2025-07-26T17:51:08.981Z] ✅ Đã thêm mới pet: SM210411 - test
+[2025-07-26T17:51:08.983Z] ✅ Đã thêm mới pet: SM220211 - SM220211
+[2025-07-26T17:51:18.248Z] ✅ Đã thêm mới pet: SM230411 - test
+[2025-07-26T17:51:18.249Z] ✅ Đã thêm mới pet: SM240211 - SM240211
+[2025-07-26T17:52:53.564Z] ✅ Đã thêm mới pet: SM210411 - test
+[2025-07-26T17:52:53.565Z] ✅ Đã thêm mới pet: SM220211 - SM220211
+[2025-07-26T17:52:59.102Z] ✅ Đã thêm mới pet: SM230411 - test
+[2025-07-26T17:52:59.103Z] ✅ Đã thêm mới pet: SM240211 - SM240211
+[2025-07-26T18:01:28.804Z] ✅ Đã thêm mới pet: SM201101 - test
+[2025-07-26T18:01:28.806Z] ✅ Đã thêm mới pet: SM211102 - SM211102
+

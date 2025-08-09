@@ -2,8 +2,6 @@ name: Deploy Backend
 
 on:
   push:
-    paths:
-      - 'be/**'       # Chạy khi có thay đổi trong thư mục be
     branches:
       - main
 
@@ -20,11 +18,53 @@ jobs:
         with:
           ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
 
-      - name: Deploy Backend
+      - name: Deploy Backend to Ubuntu server
         run: |
           ssh -o StrictHostKeyChecking=no ${{ secrets.USER }}@${{ secrets.HOST }} << 'EOF'
+            # Load nvm + Node (nếu dùng nvm)
+            export NVM_DIR="$HOME/.nvm"
+            [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+            [ -d "$NVM_DIR/versions/node" ] && export PATH="$PATH:$(dirname $(find "$NVM_DIR/versions/node" -name node -type f | head -n1))"
+
             cd ~/be
             git pull origin main
-            npm install
+            npm install --production || npm install
+            # Nếu BE cần build thì mở dòng dưới:
+            # npm run build
+
             pm2 restart backend || pm2 start index.js --name backend
+            pm2 save
           EOF
+
+      - name: Get current time
+        id: time
+        run: |
+          echo "time=$(TZ=Asia/Ho_Chi_Minh date '+%Y-%m-%d %H:%M:%S')" >> $GITHUB_OUTPUT
+
+      - name: Notify Telegram on Success
+        if: success()
+        run: |
+          curl -s -X POST https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage \
+            -d chat_id=${{ secrets.TELEGRAM_CHAT_ID }} \
+            -d parse_mode=Markdown \
+            -d text="$(cat <<EOF
+            ✅ *BE CI/CD Thành công!*
+            Branch: \`main\`
+            Thời gian: \`${{ steps.time.outputs.time }}\`
+            🟢 [Xem commit](https://github.com/${{ github.repository }}/commit/${{ github.sha }})
+          EOF
+          )"
+
+      - name: Notify Telegram on Failure
+        if: failure()
+        run: |
+          curl -s -X POST https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage \
+            -d chat_id=${{ secrets.TELEGRAM_CHAT_ID }} \
+            -d parse_mode=Markdown \
+            -d text="$(cat <<EOF
+            ❌ *BE CI/CD Thất bại!*
+            Branch: \`main\`
+            Thời gian: \`${{ steps.time.outputs.time }}\`
+            🔴 [Commit lỗi](https://github.com/${{ github.repository }}/commit/${{ github.sha }})
+          EOF
+          )"

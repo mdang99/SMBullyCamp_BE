@@ -11,15 +11,29 @@ const app = express();
 // --- Middlewares ---
 app.use(express.json()); // Để đọc body JSON từ request
 app.use(cookieParser()); // Để phân tích cú pháp và xử lý cookies trong request
-
+const allowedOrigins = [
+  process.env.FRONTEND_URL,
+  process.env.FRONTEND_IP,
+  process.env.FRONTEND_URL_DEV,
+];
+  
 // Cấu hình CORS
 // Đảm bảo rằng process.env.FRONTEND_URL được định nghĩa trong file .env của backend
-app.use(cors({
-  origin: process.env.FRONTEND_URL || 'http://localhost:3000', // Cho phép các domain frontend cụ thể truy cập
-  credentials: true, // RẤT QUAN TRỌNG: Cho phép gửi và nhận cookies giữa các domain
-  methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'], // Các phương thức HTTP được phép
-  allowedHeaders: ['Content-Type', 'Authorization'], // Các headers được phép gửi đi
-}));
+app.use(
+  cors({
+    origin: function (origin, callback) {
+      if (!origin || allowedOrigins.includes(origin)) {
+        callback(null, true);
+      } else {
+        callback(new Error("Không được phép truy cập từ origin này!"));
+      }
+    },
+    // Cho phép các domain frontend cụ thể truy cập
+    credentials: true, // RẤT QUAN TRỌNG: Cho phép gửi và nhận cookies giữa các domain
+    methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"], // Các phương thức HTTP được phép
+    allowedHeaders: ["Content-Type", "Authorization"], // Các headers được phép gửi đi
+  })
+);
 
 mongoose.connect(process.env.MONGO_URI, {
   useNewUrlParser: true,
