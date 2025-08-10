@@ -3,7 +3,7 @@ name: Deploy Backend
 on:
   push:
     branches:
-      - main
+      - optimize
 
 jobs:
   deploy:
@@ -27,12 +27,12 @@ jobs:
             [ -d "$NVM_DIR/versions/node" ] && export PATH="$PATH:$(dirname $(find "$NVM_DIR/versions/node" -name node -type f | head -n1))"
 
             cd ~/be
-            git pull origin main
+            git pull origin optimize
             npm install --production || npm install
             # Nếu BE cần build thì mở dòng dưới:
             # npm run build
 
-            pm2 restart backend || pm2 start index.js --name backend
+            pm2 restart be || pm2 start index.js --name be
             pm2 save
           EOF
 
