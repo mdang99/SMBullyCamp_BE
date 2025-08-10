@@ -28,10 +28,7 @@ jobs:
 
             cd ~/be
             git pull origin optimize
-            npm install --production || npm install
-            # Nếu BE cần build thì mở dòng dưới:
-            # npm run build
-
+            npm install
             pm2 restart be || pm2 start index.js --name be
             pm2 save
           EOF
